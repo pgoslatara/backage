@@ -45,7 +45,6 @@
 6498/KidPaddle
 6483/baobab
 6489/sogrady
-6500/pchaganti
 6504/andreasronge
 6503/tabrez
 6502/clouder
