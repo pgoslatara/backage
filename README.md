@@ -32,7 +32,7 @@ Refreshed several times a day, the endpoint is always in sync with the continual
 Replace `<OWNER>`, `<REPO>`, and `<PACKAGE>` with their respective values:
 
 ```markdown
-https://raw.githubusercontent.com/ipitio/backage/master/index/<OWNER>/<REPO>/<PACKAGE>.json
+https://raw.githubusercontent.com/pgoslatara/backage/master/index/<OWNER>/<REPO>/<PACKAGE>.json
 ```
 
 #### JSONPath
